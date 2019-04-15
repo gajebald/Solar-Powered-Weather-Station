@@ -140,7 +140,7 @@ postStr +="&field2=";
 postStr += String(humidity); 
 postStr +="&field3=";                           
 postStr += String(pressure);    
-postStr +="&field5=";                           
+postStr +="&field4=";                           
 postStr += String(voltage);  
 postStr += "\r\n\r\n";
  
