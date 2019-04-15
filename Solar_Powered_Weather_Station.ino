@@ -20,7 +20,7 @@ int sensorPin = A0;    // select the input pin for the potentiometer
 float rawRange = 1024; // 3.3v 
 float logRange = 5.0; // 3.3v = 10^5 lux 
 
-// replace with your channel’s thingspeak API key and your SSID and password
+// replace with your channel’s thingspeak API key and your WLAN SSID and password
 String apiKey = "xxxxxxxxxxxxxxx";
 const char* ssid = "xxxxxx";
 const char* password = "xxxxxxxxxxx";
