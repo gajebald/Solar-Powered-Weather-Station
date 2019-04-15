@@ -24,7 +24,7 @@ const char* ssid = "xxxxxx";
 const char* password = "xxxxxxxxxxx";
 const char* server = "api.thingspeak.com";
  
-const int sleepSeconds = 180;
+const int sleepSeconds = 180; // If you use DEEPSLEEP Bridge the "Sleep" Pad on the PCB
 float t  ;
 float h  ;
 float p  ;
