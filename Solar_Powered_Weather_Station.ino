@@ -1,5 +1,4 @@
 #include <ESP8266WiFi.h>
-// Adafruit-Bibliothek für BME680
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include "Adafruit_BME680.h"
