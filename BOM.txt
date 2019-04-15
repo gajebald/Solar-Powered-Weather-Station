@@ -1,0 +1,23 @@
+Bill of Material
+
+1 x Wemos D1 Mini Pro or D1 Mini  
+
+1 x TP 4056 Charging Board
+
+1 x Switch
+
+1 x Screw Terminal
+
+1 x 18650 Battery Holder
+
+1 x 18650 Battery Panasonic NCR18650B
+
+1 x 1 W  / 5 V Solar Panel
+
+1 x Adafruit BME680 - Temperature, Humidity, Pressure Sensor
+
+1 x  Plasic shield for thermo hygro sensor ( inside 6 cm Hole )
+
+ some Male and Female Header
+
+Glue
