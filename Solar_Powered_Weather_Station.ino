@@ -1,3 +1,6 @@
+// Project: https://www.pcbway.com/project/shareproject/Solar_Powered_Weather_Station_V_1_0.html
+// Build your own Weather Station
+//
 #include <ESP8266WiFi.h>
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
